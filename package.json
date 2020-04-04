@@ -18,5 +18,8 @@
   "devDependencies": {
     "mocha": "^3.2.0"
   },
-  "homepage": "https://github.com/rolling-scopes-school/sudoku#readme"
+  "homepage": "https://github.com/rolling-scopes-school/sudoku#readme",
+  "dependencies": {
+    "prettier": "^2.0.2"
+  }
 }
